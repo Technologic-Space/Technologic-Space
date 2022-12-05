@@ -14,7 +14,11 @@
 
 ## Reference
 [周志明-凤凰架构](http://icyfenix.cn/)
+
 [https://github.com/0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document)
+
 [云原生资料库](https://lib.jimmysong.io/)
+
 [JIMMY SONG博客](https://jimmysong.io/blog/)
+
 [云原生社区](https://cloudnative.to/community/join/)
