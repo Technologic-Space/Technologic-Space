@@ -1,0 +1,1 @@
+基于此教程https://github.com/Bannerlord-Modding/Documentation进行的翻译、整合、记录的骑砍2开发指南。
