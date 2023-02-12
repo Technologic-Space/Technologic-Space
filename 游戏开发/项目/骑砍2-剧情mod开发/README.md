@@ -1,20 +1,12 @@
 ## 论坛
 
-### 一. 骑砍中文站
+* [骑砍中文站](https://bbs.mountblade.com.cn/)
 
-### 二. NEXUS MODS
+* [NEXUS MODS](https://www.nexusmods.com/mountandblade2bannerlord/mods/)
 
-* [Collections for Mount & Blade II: Bannerlord](https://www.nexusmods.com/mountandblade2bannerlord/mods/)
-
-### 三. Reddit
-
-* [Mount and Blade: Bannerlord](https://www.reddit.com/r/Bannerlord/)
-
-### 四. 官网blog
+* [Reddit - Mount and Blade: Bannerlord](https://www.reddit.com/r/Bannerlord/)
 
 * [官网](https://www.taleworlds.com/en/Games/Bannerlord/Blog/26)
-
-### 五. ModDB
 
 * [ModDB](https://www.moddb.com/games/mount-blade-ii-bannerlord/mods)
 
